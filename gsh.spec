@@ -11,7 +11,6 @@ Group: 		Networking/Remote access
 Url:		http://outflux.net/unix/software/gsh/
 Source: 	%{name}-%{version}.tar.bz2
 Requires:	openssh, openssh-clients, perl 
-BuildRoot: 	%{_tmppath}/%{name}-%{version}
 Prefix:		%{_prefix}
 buildArch:	noarch
 
