@@ -1,6 +1,6 @@
 %define name         	gsh	
 %define version      	1.0.2
-%define release		%mkrel 7
+%define release		%mkrel 9
 
 Name: 		%{name}
 Version: 	%{version}
