@@ -4,7 +4,7 @@
 
 Name: 		%{name}
 Version: 	%{version}
-Release:	%{release} 
+Release:	1
 Summary: 	Run commands on other hosts through ssh
 License: 	GPL
 Group: 		Networking/Remote access
