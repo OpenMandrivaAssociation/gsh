@@ -8,7 +8,7 @@ Release:	1
 Summary: 	Run commands on other hosts through ssh
 License: 	GPL
 Group: 		Networking/Remote access
-Url:		http://outflux.net/unix/software/gsh/
+Url:		https://outflux.net/unix/software/gsh/
 Source0: 	%{name}-%{version}.tar.bz2
 buildrequires:	perl-devel
 Requires:	openssh, openssh-clients, perl 
